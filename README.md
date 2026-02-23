@@ -11,7 +11,7 @@
 
 # 💫 About Me
 
-I am an aspiring **`Deep Learning Engineer`** with strong foundations in software engineering and frontend development. I am currently expanding into neural networks, model training, and intelligent system design while furthering my foundations and understanding in programming. I hope to one day work for Google.
+I am an aspiring **`Deep Learning Engineer`** with strong foundations in software engineering and frontend development. I am currently expanding into neural networks, model training, and intelligent system design while furthering my foundations and understanding in programming. I hope to one day work for **Google**.
 
 ---
 
