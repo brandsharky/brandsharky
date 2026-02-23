@@ -35,6 +35,8 @@ I am an aspiring **`Deep Learning Engineer`** with strong foundations in softwar
 
 <div align="left">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brandsharky&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
+  ![](https://github-contributor-stats.vercel.app/api?username=brandsharky&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 ---
@@ -44,19 +46,16 @@ I am an aspiring **`Deep Learning Engineer`** with strong foundations in softwar
 ### Programming
 - 🧠 Strengthening core programming fundamentals
 - ⚙️ Writing cleaner, more efficient code
-- 📚 Deepening understanding of data structures & algorithms
-- 🤖 Studying deep learning concepts and neural networks
-- 🏗 Building real-world projects to sharpen architecture skills
-- 📈 Consistent daily improvement through practice and iteration
+- 📚 Creating understanding of data structures & algorithms
+- 🏗 Building real-world projects to sharpen skills
 
 > Focused on long-term mastery, not shortcuts.
 
 ### AI and Deep Learning
 - 🧠 Studying neural networks and model architecture fundamentals
 - 🔬 Implementing models using PyTorch and TensorFlow
-- 📊 Exploring data preprocessing and training pipelines
+- 📊 Exploring data preprocessing and training
 - ⚡ Experimenting with optimization techniques and performance tuning
-- 📚 Building strong mathematical foundations (linear algebra, calculus, probability)
 
 > Engineering intelligence through disciplined iteration and experimentation.
 
