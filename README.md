@@ -12,9 +12,9 @@
 # 💫 About Me
 I am an aspiring **`Machine Learning Engineer`** with a strong foundation in software engineering and frontend development. My journey into programming began at age 13 when a neighbor gave me my first programming book, *Coding for Dummies for Kids*. That book showed me that programming wasn't an impossible language of numbers and symbols, but a tool I could use to turn my ideas into something real.
 
-Since then, I've pursued programming through self-study, community college, and countless hours of practice—even finding ways to keep learning when I didn't have consistent access to a computer or learning materials. During high school, I earned a **Certificate of Achievement in Programming Foundations** from my local community college. More recently, I earned a **Certificate in Web & Computer Programming** and am currently working toward a **Certificate in Web Development** while continuing to expand my skills in college.
+Since then, I've pursued programming through self-study, community college, and countless hours of practice—even finding ways to keep learning when I didn't have consistent access to a computer or learning materials. During high school, I earned a **Certificate of Achievement in Programming Foundations** from my local community college. More recently, I earned a **Certificate in Web & Computer Programming** and am currently working toward a **Certificate in Web Development** while currently continuing to expand my skills in college.
 
-Today, I'm building on that foundation by exploring backend development, neural networks, model training, and intelligent systems as I work toward becoming a **`Machine Learning Engineer`**. My goal is to one day work at **Google** and build technology that makes an impact on the world.
+Today, I'm building on that foundation by exploring backend development, neural networks, model training, and intelligent systems as I work toward becoming a **`Machine Learning Engineer`** while working on **my own startup company**. My goal is to build technology that makes an impact on the world.
 
 ---
 
