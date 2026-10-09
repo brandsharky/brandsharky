@@ -59,20 +59,4 @@ Today, I'm building on that foundation by exploring backend development, neural 
 - 📊 Exploring data preprocessing and training
 - ⚡ Experimenting with optimization techniques and performance tuning
 
-> Engineering intelligence through disciplined iteration and experimentation.
-
----
-
-# 🤝 Let’s Connect
-
-I’m actively growing toward opportunities in:
-
-- Software Engineering
-- AI / Machine Learning
-- Frontend / Full-Stack Development
-
-If you’re building something cool — I want to be part of it.
-
-📫 Reach out and let’s create something amazing.
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basharky@outlook.com)
+> Engineering intelligence through disciplined iteration and experimentation.[README.md](https://github.com/user-attachments/files/33267097/README.md)
