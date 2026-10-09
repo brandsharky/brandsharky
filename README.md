@@ -59,4 +59,4 @@ Today, I'm building on that foundation by exploring backend development, neural 
 - 📊 Exploring data preprocessing and training
 - ⚡ Experimenting with optimization techniques and performance tuning
 
-> Engineering intelligence through disciplined iteration and experimentation.[README.md](https://github.com/user-attachments/files/33267097/README.md)
+> Engineering intelligence through disciplined iteration and experimentation.
