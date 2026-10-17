@@ -22,7 +22,11 @@ Today, I'm building on that foundation by exploring backend development, neural 
 <div align="center">
 
 ### 🤖 Currently Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nextjs,react,tailwind,typescript" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,swift"/>
+
+### 🚀 Creating With
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript" />
+
 
 ### 🧠 Languages
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cs,cpp,php,bash" />
